@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Invista seus primeiros R$ 100</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #fff;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(135deg, #00c896, #007f5f);
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 20px;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #007f5f;
+      margin-top: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .highlight {
+      background: #f0fff8;
+      border-left: 5px solid #00c896;
+      padding: 15px;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+    .cta-button {
+      display: block;
+      background: #00c896;
+      color: white;
+      text-align: center;
+      padding: 18px;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 8px;
+      margin: 40px auto;
+      max-width: 300px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    .price {
+      font-size: 28px;
+      color: #d62828;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>💰 Invista seus primeiros R$ 100</h1>
+  <p>Transforme sua relação com o dinheiro começando com pouco</p>
+</header>
+
+<section>
+  <div class="highlight">
+    <h2>📉 Está cansado de ver seu dinheiro parado na poupança?</h2>
+    <p>Você não precisa ser rico para começar a investir. Com este guia prático, você aprende como dar os primeiros passos com apenas R$ 100 — sem complicações, sem enrolação.</p>
+  </div>
+
+  <h2>✅ O que você vai aprender:</h2>
+  <ul>
+    <li>Como funciona o mercado financeiro brasileiro</li>
+    <li>Onde investir com pouco dinheiro e segurança</li>
+    <li>Erros comuns que você deve evitar</li>
+    <li>Estratégias para multiplicar seus primeiros R$ 100</li>
+    <li>Como montar sua primeira carteira de investimentos</li>
+  </ul>
+
+  <h2>🔥 Por que este eBook é diferente?</h2>
+  <ul>
+    <li>Escrito para quem nunca investiu</li>
+    <li>Conteúdo direto, sem termos técnicos</li>
+    <li>Aplicável na prática — você começa hoje</li>
+    <li>Preço acessível e retorno valioso</li>
+  </ul>
+
+  <h2>🎯 Este guia é para você que:</h2>
+  <ul>
+    <li>Quer sair da poupança e investir com segurança</li>
+    <li>Busca independência financeira começando com pouco</li>
+    <li>Quer aprender sem depender de bancos ou gurus</li>
+  </ul>
+
+  <h2>🎁 Bônus exclusivo:</h2>
+  <ul>
+    <li>Planilha de controle de investimentos</li>
+    <li>Lista de apps gratuitos para acompanhar o mercado</li>
+    <li>Acesso a grupo fechado com dicas e atualizações</li>
+  </ul>
+
+  <h2>📥 Comece agora!</h2>
+  <p class="price">Preço promocional: R$ XX,XX</p>
+  <p>🔒 Pagamento 100% seguro<br>📱 Acesso imediato após a compra<br>💬 Suporte direto com o autor</p>
+
+  <a href="#" class="cta-button">Quero começar a investir com R$ 100!</a>
+</section>
+
+</body>
+</html>
